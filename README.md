@@ -43,7 +43,7 @@
    - Clustering analysis reveals patterns indicative of malicious or benign nature.
 
 **Ablation Analysis:**
-    - Component-wise performance evaluation of Project.
+    - Component-wise performance evaluation of the Project.
     - Special characters as words and character-level word embedding improve AUC scores.
     - Project integrates features for consistent performance improvement.
 
