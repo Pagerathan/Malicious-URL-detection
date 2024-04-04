@@ -1,7 +1,5 @@
 > # DETECTION OF MALICIOUS URL USING MACHINE LEARNING APPROACH 
 
-***
-
  **Word-Level CNNs:**
    - Unique words identified in training corpus.
    - Words converted to matrix representation for CNN application.
@@ -57,9 +55,4 @@
     - Project proposed as CNN-based model for malicious URL detection.
     - End-to-end approach eliminates need for manual feature engineering.
     - Advanced word embedding techniques address challenges of rare words and unseen features.
-    - Project achieves superior performance through joint optimization of character and word-level information.- Developed a malware detection system to predict which feature will result in the file most likely being malicious or not.
-- Implemented standardization of data to help in feature extraction using CNN and categorisation.
-- Found the suitable algorithm for the given dataset ( data had some noise which may result in overfitting ) by implementing various methods KNN, Random Forest in classification.
-- Used Random forest in learning algorithm as it resulted in the graph having maximum detection rate and lowest false positive rate.
-
-  ***
+    - Project achieves superior performance through joint optimization of character and word-level information.
