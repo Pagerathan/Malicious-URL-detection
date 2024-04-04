@@ -42,7 +42,7 @@
    - Project effectively separates malicious and benign URLs.
    - Clustering analysis reveals patterns indicative of malicious or benign nature.
 
-**Ablation Analysis:**
+**Analysis:**
 -  Component-wise performance evaluation of Project.
 - Special characters as words and character-level word embedding improve AUC scores.
 - Project integrates features for consistent performance improvement.
