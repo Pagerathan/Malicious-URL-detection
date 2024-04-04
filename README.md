@@ -43,16 +43,16 @@
    - Clustering analysis reveals patterns indicative of malicious or benign nature.
 
 **Ablation Analysis:**
-    - Component-wise performance evaluation of the Project.
-    - Special characters as words and character-level word embedding improve AUC scores.
-    - Project integrates features for consistent performance improvement.
+-  Component-wise performance evaluation of Project.
+- Special characters as words and character-level word embedding improve AUC scores.
+- Project integrates features for consistent performance improvement.
 
  **Related Work:**
-    - Brief overview of feature representation and deep learning in malicious URL detection.
-    - Project novel approach surpasses traditional bag-of-words methods.
+- Brief overview of feature representation and deep learning in malicious URL detection.
+- Project novel approach surpasses traditional bag-of-words methods.
 
 **Conclusion:**
-    - Project proposed as CNN-based model for malicious URL detection.
-    - End-to-end approach eliminates need for manual feature engineering.
-    - Advanced word embedding techniques address challenges of rare words and unseen features.
-    - Project achieves superior performance through joint optimization of character and word-level information.
+- Project proposed as CNN-based model for malicious URL detection.
+- End-to-end approach eliminates need for manual feature engineering.
+- Advanced word embedding techniques address challenges of rare words and unseen features.
+- Project achieves superior performance through joint optimization of character and word-level information.
